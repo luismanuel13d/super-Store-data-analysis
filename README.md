@@ -13,7 +13,7 @@ Excel: elaboración del mockup y preparación de la estructura del análisis.
 Power BI: creación del dashboard y análisis visual de los datos.
 🔄 Proceso del proyecto
 Limpieza de datos: realizada con Python.
-Consultas y análisis: realizadas mediante SQL.
+Consultas y análisis: realizadas mediante postgresql.sql.
 Mockup: elaborado en Excel para definir la estructura visual.
 Visualización: desarrollo del dashboard final en Power BI.
 📁 Archivos
